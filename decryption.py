@@ -11,7 +11,6 @@ print(f"chars: {chars}")
 print(f"key  : {key}")
 
 # DECRYPTION
-
 cipher_text = input("Enter a message to decrypt: ")
 plain_text = ""
 
