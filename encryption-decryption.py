@@ -23,7 +23,6 @@ print(f"original message:  {plain_text}")
 print(f"encrypted message: {cipher_text}")
 
 # DECRYPTION
-
 cipher_text = input("Enter a message to decrypt: ")
 plain_text = ""
 
